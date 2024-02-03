@@ -1,0 +1,11 @@
+{
+  "name": "node-starter",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "connect": "^3.7.0"
+  }
+}
